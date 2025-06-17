@@ -1,0 +1,25 @@
+# Courses Offered in CSE Department
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSE Department Courses</title>
+</head>
+<body>
+    <h1>Available Courses in CSE Department</h1>
+    <ol>
+        <li>Introduction to Programming</li>
+        <li>Data Structures and Algorithms</li>
+        <li>Database Management Systems</li>
+        <li>Web Development</li>
+        <li>Operating Systems</li>
+        <li>Software Engineering</li>
+        <li>Computer Networks</li>
+        <li>Machine Learning</li>
+        <li>Artificial Intelligence</li>
+        <li>Mobile Application Development</li>
+    </ol>
+</body>
+</html>
