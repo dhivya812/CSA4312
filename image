@@ -1,0 +1,3 @@
+# Load Image with Specific Dimension in the Web Page
+
+<img src="path/to/your/image.jpg" alt="Description of Image" width="300" height="200">
